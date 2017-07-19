@@ -1,0 +1,7 @@
+[hakkimda]
+    Name = "Hakkimda"
+    URL = "about"
+	
+[iletisim]
+    Name = "iletisim"
+    URL = "/contact"
